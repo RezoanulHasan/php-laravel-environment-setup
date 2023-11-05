@@ -4,9 +4,10 @@
 <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/>
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/composer-%230A0A0A.svg?style=for-the-badge&logo=composer&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 # php-laravel-environment-setup
+
 > #### Essential Softwares:
 
 > Note: If you have any php binary file on C drive then delete that.
@@ -26,6 +27,11 @@
 > Note: As `PHPStorm` is a paid IDE so you can use its 30 Days trial version. After that you can use another email address for the next 30 Days. By repeating this process you can use `PHPStrom` for free when you are in your learning phase.
 
 6. PHPStorm (Paid Code Editor) ( Download Link: https://www.jetbrains.com/phpstorm/download )
+7. postman ( Download https://www.postman.com/downloads/ )
+8. laravel  ( Docomantation Link: https://laravel.com/docs/10.x/installation )
+   - composer create-project laravel/laravel filename
+   - cd filename
+   - php artisan serve
 
 ### If you are going to use PHPStorm as your code editor then no need to install any plugin as PHPStorm ships with built-in support for PHP and Laravel.
 
@@ -37,11 +43,11 @@
 
 > ### VS Code Extensions:
 
-> Note: If you don't want to install the extentions from No. 4 to 15 one by one, then you can just install this `Laravel Extension Pack` extention which will also install all of those plugins as well.
+> Note: If you don't want to install the extensions from No. 4 to 15 one by one, then you can just install this `Laravel Extension Pack` extention which will also install all of those plugins as well.
 
 | SL No: | Plugins                                     |
 | ------ | ------------------------------------------- |
-| 1      | PHP Intelephense                            |
+| 1      | PHP  DEVSENSE                               |
 | 2      | PHP DocBlocker                              |
 | 3      | PHP Namespace Resolver                      |
 | 4      | Laravel Blade Snippets                      |
